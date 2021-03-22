@@ -1,0 +1,27 @@
+{
+    "id": "FBFD4975",
+    "path": "~/Documents/GitHub/steph/himalayan_climbing_expeditions/scripts/data_loading.R",
+    "project_path": "scripts/data_loading.R",
+    "type": "r_source",
+    "hash": "3451484554",
+    "contents": "",
+    "dirty": false,
+    "created": 1616449276516.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "15,16",
+        "scrollLine": "7"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1616449590,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1616449590154,
+    "read_only": false,
+    "read_only_alternatives": []
+}
